@@ -5,24 +5,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 -   [Overview](#overview)
-    -   [Screenshot](#screenshot)
+    -   [Screenshots](#screenshots)
     -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
-    -   [Continued development](#continued-development)
-    -   [Useful resources](#useful-resources)
 -   [Author](#author)
--   [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-### Screenshot
-<img src="./public/images/desktop-view.png" width="200">
-<br>
-<img src="./public/images/mobile-view.png" width="200">
+### Screenshots
+Desktop <br>
+<img src="./public/images/desktop-view.png" width="200"> <br>
+Mobile <br>
+<img src="./public/images/mobile-view.png" width="100">
 
 ### Links
 
