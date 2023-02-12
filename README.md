@@ -24,8 +24,8 @@ Mobile <br>
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [github.com/xerullian/qr-code-component-solution](https://github.com/Xerullian/qr-code-component-solution)
+-   Live Site URL: [xerullian.github.io/qr-code-component-solution](https://xerullian.github.io/qr-code-component-solution/)
 
 ## My process
 
@@ -56,6 +56,10 @@ so excited to be finally using it. The developer experience and how quick it is 
 As a whole, this was a rewarding project. It greatly enhanced my confidence in my front-end development skills and
 calmed a fear I had about not being able to apply my knowledge. Despite this being an introductory challenge, 
 I'm extremely excited to take on the next one.
+
+### Useful resources
+
+- [Learn Tailwind CSS – Course for Beginners](https://youtu.be/ft30zcMlFao) - This helped me get a quick understanding of Tailwind CSS. I referenced it multiple times along with the official documentation.
 
 ## Author
 
